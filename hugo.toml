@@ -1,0 +1,7 @@
+baseURL = 'https://你的项目名.pages.dev/'
+languageCode = 'zh-cn'
+title = '墨白blog'
+theme = 'blowfish'
+
+[params]
+  description = "enen"
